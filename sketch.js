@@ -6,7 +6,7 @@ const Body = Matter.Body;
 var engine, world;
 
 function setup() {
-	createCanvas(600, 700);
+	createCanvas(800, 700);
 
 
 	engine = Engine.create();
